@@ -865,7 +865,7 @@ menu_text {
     font-size: 18px;
     padding: 10px 20px 0px 20px;
     background-color: transparent !important;
-    border: 1px solid #5e90f4 !important;
+    border: 1px solid #663399 !important;
     margin: 0 auto;
     justify-content: center;
     align-items: center;
@@ -899,7 +899,7 @@ textarea#comment::placeholder {
 
 .subscribe_bt a:hover {
     color: #ffffff;
-    background-color: #3674f2;
+    background-color: #663399;
 }
 
 /* update section end */
@@ -957,7 +957,7 @@ textarea#comment::placeholder {
 }
 
 .footer_menu li a:hover {
-    color: #3674f2;
+    color: #663399;
 }
 
 .location_text {
