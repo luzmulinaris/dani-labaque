@@ -249,21 +249,21 @@ button {
 
 .menu_main li {
     font-size: 20px;
-    color: #385a64;
+    color: #663399;
     float: left;
 }
 
 .menu_main li a {
-    color: #385a64;
+    color: #663399;
     padding-left: 20px;
 }
 
 .menu_main li a:hover {
-    color: #3674f2;
+    color: #663399;
 }
 
 .bg-dark {
-    background-color: rgba( 54, 14, 14, 0.5)!important;
+    background-color: rgba(132, 20, 192, 0.5)!important;
 }
 
 .overlay {
@@ -274,7 +274,7 @@ button {
     top: 0;
     left: 0;
     background-color: rgb(0, 0, 0);
-    background-color: rgba(0, 0, 0, 0.9);
+    background-color: rgba(29, 5, 42, 0.941);
     overflow-x: hidden;
     transition: 0.5s;
 }
